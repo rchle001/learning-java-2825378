@@ -9,7 +9,8 @@ public class Main {
 
         // Triangle.findArea()? --> Math.pow(2,3)?
 
-        
+        double triangleBArea = triangleB.findArea();
+        System.out.println(triangleBArea);
     }
 
 }
